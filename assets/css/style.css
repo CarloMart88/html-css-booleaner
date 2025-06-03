@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+header {
+
+  background-image: url(../pattern.png);
+}
+
+body {
+  background-color: black;
+}
