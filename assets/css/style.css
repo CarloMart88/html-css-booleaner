@@ -16,6 +16,16 @@ header {
 
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th td {
+  padding: 0;
+  margin: 0;
+}
+
 .lightgray {
   color: #A8A8A8;
 }
@@ -37,12 +47,14 @@ header {
 
 .color-table {
   background-color: #B1E6F2;
-  #1FAAE6
+  border-color: #B1E6F2;
+  #
 }
 
 .color-main {
   color: white;
   background-color: #1FAAE6;
+  border-color: #1FAAE6;
 }
 
 .purple {
